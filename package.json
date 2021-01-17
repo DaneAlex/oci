@@ -1,0 +1,19 @@
+{
+  "name": "oci.js",
+  "version": "1.0.0",
+  "description": "Package for interfacing  with an Owncast server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Owncast"
+  ],
+  "author": "Dane_Alex",
+  "license": "ISC",
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
