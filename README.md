@@ -13,10 +13,10 @@ $ npm install oci.js
 const oci = require('oci.js');
 
 const client = new oci.Client({
-    AccessToken = YOUR_ACCESS_TOKEN,
-    StreamKey = YOUR_STREAM_KEY,
-    OwncastUrl = YOUR_STREAM_URL,
-    BotUsername = YOUR_BOTS_NAME
+    AccessToken: YOUR_ACCESS_TOKEN,
+    StreamKey: YOUR_STREAM_KEY,
+    OwncastUrl: YOUR_STREAM_URL,
+    BotUsername: YOUR_BOTS_NAME
 });
 
 client.getChatMessages(res => {
