@@ -1,5 +1,5 @@
 # oci.js
- Package for integrating with 
+ Package for interfacing with the Owncast APIs.
 
 ## Install
 
