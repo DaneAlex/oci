@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # oci.js
  Package for interfacing with the Owncast APIs.
 
@@ -25,7 +24,3 @@ client.getChatMessages(res => {
 });
 
 ```
-=======
-# oci
- Package for integrating with 
->>>>>>> parent of 9413001... Update README.md
